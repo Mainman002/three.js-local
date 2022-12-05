@@ -5,7 +5,7 @@ import {
 	ShaderMaterial,
 	UniformsUtils,
 	Vector3
-} from 'three';
+} from '../../../src/Three.js';
 
 /**
  * Based on "A Practical Analytic Model for Daylight"

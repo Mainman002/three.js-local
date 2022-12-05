@@ -1,6 +1,6 @@
 import {
 	Vector2
-} from 'three';
+} from '../../../src/Three.js';
 
 /**
  * Depth-of-field shader with bokeh

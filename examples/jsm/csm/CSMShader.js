@@ -1,4 +1,4 @@
-import { ShaderChunk } from 'three';
+import { ShaderChunk } from '../../../src/Three.js';
 
 const CSMShader = {
 	lights_fragment_begin: /* glsl */`

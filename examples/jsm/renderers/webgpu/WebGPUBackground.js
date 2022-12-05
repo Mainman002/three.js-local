@@ -1,5 +1,5 @@
 import { GPULoadOp, GPUStoreOp } from './constants.js';
-import { Color, Mesh, BoxGeometry, BackSide, EquirectangularReflectionMapping, EquirectangularRefractionMapping } from 'three';
+import { Color, Mesh, BoxGeometry, BackSide, EquirectangularReflectionMapping, EquirectangularRefractionMapping } from '../../../src/Three.js';
 import { context, vec2, invert, texture, cubeTexture, transformDirection, positionWorld, modelWorldMatrix, viewportBottomLeft, equirectUV, MeshBasicNodeMaterial } from 'three/nodes';
 
 let _clearAlpha;

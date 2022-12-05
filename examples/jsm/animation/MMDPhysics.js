@@ -11,7 +11,7 @@ import {
 	Quaternion,
 	SphereGeometry,
 	Vector3
-} from 'three';
+} from '../../../src/Three.js';
 
 /**
  * Dependencies

@@ -7,7 +7,7 @@ import NodeKeywords from './NodeKeywords.js';
 import NodeCache from './NodeCache.js';
 import { NodeUpdateType } from './constants.js';
 
-import { REVISION, LinearEncoding, Color, Vector2, Vector3, Vector4 } from 'three';
+import { REVISION, LinearEncoding, Color, Vector2, Vector3, Vector4 } from '../../../src/Three.js';
 
 import { mul, maxMipLevel } from '../shadernode/ShaderNodeElements.js';
 

@@ -1,7 +1,7 @@
 import {
 	MathUtils,
 	Mesh
-} from 'three';
+} from '../../../src/Three.js';
 
 class MorphBlendMesh extends Mesh {
 

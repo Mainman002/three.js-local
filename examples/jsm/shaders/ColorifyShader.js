@@ -1,6 +1,6 @@
 import {
 	Color
-} from 'three';
+} from '../../../src/Three.js';
 
 /**
  * Colorify shader

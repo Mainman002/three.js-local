@@ -7,7 +7,7 @@ import {
 	Mesh,
 	MeshStandardMaterial,
 	Vector3
-} from 'three';
+} from '../../../src/Three.js';
 
 function TubePainter() {
 

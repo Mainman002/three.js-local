@@ -3,7 +3,7 @@ import {
 	Loader,
 	TextureLoader,
 	RepeatWrapping
-} from 'three';
+} from '../../../src/Three.js';
 
 import {
 	MeshPhysicalNodeMaterial,

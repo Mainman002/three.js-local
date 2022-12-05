@@ -3,7 +3,7 @@ import LightsNode from './LightsNode.js';
 import Object3DNode from '../accessors/Object3DNode.js';
 import { uniform, add, mul, dot, mix, normalize, normalView } from '../shadernode/ShaderNodeElements.js';
 
-import { Color, HemisphereLight } from 'three';
+import { Color, HemisphereLight } from '../../../src/Three.js';
 
 class HemisphereLightNode extends AnalyticLightNode {
 

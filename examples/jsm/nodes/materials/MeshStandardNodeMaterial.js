@@ -11,7 +11,7 @@ import getRoughness from '../functions/material/getRoughness.js';
 import PhysicalLightingModel from '../functions/PhysicalLightingModel.js';
 import NormalMapNode from '../display/NormalMapNode.js';
 
-import { MeshStandardMaterial } from 'three';
+import { MeshStandardMaterial } from '../../../src/Three.js';
 
 const defaultValues = new MeshStandardMaterial();
 

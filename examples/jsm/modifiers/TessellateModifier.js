@@ -4,7 +4,7 @@ import {
 	Float32BufferAttribute,
 	Vector2,
 	Vector3
-} from 'three';
+} from '../../../src/Three.js';
 
 /**
  * Break faces with edges longer than maxEdgeLength

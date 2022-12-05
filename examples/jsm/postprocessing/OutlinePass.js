@@ -11,7 +11,7 @@ import {
 	Vector2,
 	Vector3,
 	WebGLRenderTarget
-} from 'three';
+} from '../../../src/Three.js';
 import { Pass, FullScreenQuad } from './Pass.js';
 import { CopyShader } from '../shaders/CopyShader.js';
 

@@ -3,7 +3,7 @@ import {
 	FileLoader,
 	Float32BufferAttribute,
 	Loader
-} from 'three';
+} from '../../../src/Three.js';
 
 class XYZLoader extends Loader {
 

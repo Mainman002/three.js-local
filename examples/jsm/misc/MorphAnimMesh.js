@@ -2,7 +2,7 @@ import {
 	AnimationClip,
 	AnimationMixer,
 	Mesh
-} from 'three';
+} from '../../../src/Three.js';
 
 class MorphAnimMesh extends Mesh {
 

@@ -16,7 +16,7 @@ import {
 	FileLoader,
 	Loader,
 	NumberKeyframeTrack
-} from 'three';
+} from '../../../src/Three.js';
 
 class MDDLoader extends Loader {
 

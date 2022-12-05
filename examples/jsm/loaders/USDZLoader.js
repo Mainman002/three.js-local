@@ -12,7 +12,7 @@ import {
 	sRGBEncoding,
 	TextureLoader,
 	Object3D,
-} from 'three';
+} from '../../../src/Three.js';
 
 import * as fflate from '../libs/fflate.module.js';
 

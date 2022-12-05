@@ -9,7 +9,7 @@ import {
 	UnsignedByteType,
 	ClampToEdgeWrapping,
 	LinearFilter,
-} from 'three';
+} from '../../../src/Three.js';
 
 export class LUTCubeLoader extends Loader {
 

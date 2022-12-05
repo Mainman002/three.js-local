@@ -4,7 +4,7 @@ import {
 	MeshBasicMaterial,
 	EqualStencilFunc,
 	IncrementStencilOp
-} from 'three';
+} from '../../../src/Three.js';
 
 /**
  * A shadow Mesh that follows a shadow-casting Mesh in the scene, but is confined to a single plane.

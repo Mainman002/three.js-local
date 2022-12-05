@@ -1,6 +1,6 @@
 import Node from '../core/Node.js';
 import { uniform, div, vec2, invert } from '../shadernode/ShaderNodeBaseElements.js';
-import { Vector2 } from 'three';
+import { Vector2 } from '../../../src/Three.js';
 import { NodeUpdateType } from '../core/constants.js';
 
 let resolution;

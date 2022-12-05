@@ -4,7 +4,7 @@ import {
 	LineSegments,
 	LineBasicMaterial,
 	Vector3
-} from 'three';
+} from '../../../src/Three.js';
 
 const _v1 = new Vector3();
 const _v2 = new Vector3();

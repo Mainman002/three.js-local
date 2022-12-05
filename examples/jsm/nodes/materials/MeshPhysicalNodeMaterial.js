@@ -1,6 +1,6 @@
 import MeshStandardNodeMaterial from './MeshStandardNodeMaterial.js';
 
-import { MeshPhysicalMaterial } from 'three';
+import { MeshPhysicalMaterial } from '../../../src/Three.js';
 
 const defaultValues = new MeshPhysicalMaterial();
 

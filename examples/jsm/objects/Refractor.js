@@ -13,7 +13,7 @@ import {
 	LinearEncoding,
 	NoToneMapping,
 	HalfFloatType
-} from 'three';
+} from '../../../src/Three.js';
 
 class Refractor extends Mesh {
 

@@ -13,7 +13,7 @@ import {
 	Vector3,
 	Vector4,
 	RGBAFormat
-} from 'three';
+} from '../../../src/Three.js';
 
 class Lensflare extends Mesh {
 

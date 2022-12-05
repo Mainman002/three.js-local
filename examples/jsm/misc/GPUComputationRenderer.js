@@ -12,7 +12,7 @@ import {
 	Scene,
 	ShaderMaterial,
 	WebGLRenderTarget
-} from 'three';
+} from '../../../src/Three.js';
 
 /**
  * GPUComputationRenderer, based on SimulationRenderer by zz85

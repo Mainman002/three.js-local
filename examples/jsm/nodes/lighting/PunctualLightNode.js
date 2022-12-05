@@ -4,7 +4,7 @@ import Object3DNode from '../accessors/Object3DNode.js';
 import getDistanceAttenuation from '../functions/light/getDistanceAttenuation.js';
 import { uniform, mul, normalize, length, sub, positionView } from '../shadernode/ShaderNodeElements.js';
 
-import { PointLight } from 'three';
+import { PointLight } from '../../../src/Three.js';
 
 class PunctualLightNode extends AnalyticLightNode {
 

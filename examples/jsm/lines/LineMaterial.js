@@ -17,7 +17,7 @@ import {
 	UniformsLib,
 	UniformsUtils,
 	Vector2
-} from 'three';
+} from '../../../src/Three.js';
 
 
 UniformsLib.line = {

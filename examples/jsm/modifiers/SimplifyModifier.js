@@ -2,7 +2,7 @@ import {
 	BufferGeometry,
 	Float32BufferAttribute,
 	Vector3
-} from 'three';
+} from '../../../src/Three.js';
 import * as BufferGeometryUtils from '../utils/BufferGeometryUtils.js';
 
 /**

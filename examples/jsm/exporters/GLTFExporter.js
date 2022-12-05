@@ -21,7 +21,7 @@ import {
 	Source,
 	sRGBEncoding,
 	Vector3
-} from 'three';
+} from '../../../src/Three.js';
 
 class GLTFExporter {
 

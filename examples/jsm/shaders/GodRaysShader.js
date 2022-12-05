@@ -1,7 +1,7 @@
 import {
 	Color,
 	Vector3
-} from 'three';
+} from '../../../src/Three.js';
 
 /**
  * God-rays (crepuscular rays)
